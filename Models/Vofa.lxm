@@ -1,0 +1,725 @@
+{
+  "version": "1.2.1",
+  "timestamp": 1783548819701,
+  "fixtures": [
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 51435,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex TOP A",
+        "x": 28.0,
+        "y": 98.0,
+        "z": -4.0,
+        "yaw": -5.0,
+        "pitch": 90.0,
+        "roll": -100.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": true,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 56377,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex TOP B",
+        "x": 13.0,
+        "y": 97.0,
+        "z": 20.0,
+        "yaw": 33.0,
+        "pitch": 96.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 56438,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex TOP C",
+        "x": -17.0,
+        "y": 97.0,
+        "z": 19.0,
+        "yaw": 9.0,
+        "pitch": 92.0,
+        "roll": 32.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 56478,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex TOP D",
+        "x": -24.0,
+        "y": 97.0,
+        "z": -10.0,
+        "yaw": 61.0,
+        "pitch": 77.0,
+        "roll": -174.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 56500,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex TOP E",
+        "x": 5.0,
+        "y": 97.0,
+        "z": -25.0,
+        "yaw": 5.0,
+        "pitch": 76.0,
+        "roll": -167.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 60487,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 1A",
+        "x": -53.0,
+        "y": 72.0,
+        "z": 45.0,
+        "yaw": -52.0,
+        "pitch": 141.0,
+        "roll": 66.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 2.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 61949,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 1C",
+        "x": -51.0,
+        "y": 24.0,
+        "z": 83.0,
+        "yaw": -39.0,
+        "pitch": 163.0,
+        "roll": 64.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 2.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 62079,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 1E",
+        "x": -90.0,
+        "y": 24.0,
+        "z": 37.0,
+        "yaw": -64.0,
+        "pitch": 157.0,
+        "roll": 60.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 2.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 62227,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 2A",
+        "x": 26.0,
+        "y": 72.0,
+        "z": 64.0,
+        "yaw": 20.0,
+        "pitch": 141.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 62270,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 2C",
+        "x": 63.0,
+        "y": 24.0,
+        "z": 74.0,
+        "yaw": 33.0,
+        "pitch": 163.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 62331,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 2E",
+        "x": 7.0,
+        "y": 24.0,
+        "z": 97.0,
+        "yaw": 8.0,
+        "pitch": 157.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 62977,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 3A",
+        "x": 69.0,
+        "y": 72.0,
+        "z": -5.0,
+        "yaw": 92.0,
+        "pitch": 141.0,
+        "roll": 66.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 63015,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 3C",
+        "x": 90.0,
+        "y": 24.0,
+        "z": -37.0,
+        "yaw": 105.0,
+        "pitch": 163.0,
+        "roll": 64.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 63053,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 3E",
+        "x": 94.0,
+        "y": 24.0,
+        "z": 23.0,
+        "yaw": 80.0,
+        "pitch": 157.0,
+        "roll": 60.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 63091,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 4A",
+        "x": 16.0,
+        "y": 72.0,
+        "z": -67.0,
+        "yaw": 164.0,
+        "pitch": 141.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 63113,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 4C",
+        "x": -7.0,
+        "y": 24.0,
+        "z": -97.0,
+        "yaw": 177.0,
+        "pitch": 163.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hexagon",
+      "jsonParameters": {
+        "size": 20.0,
+        "center": true
+      },
+      "id": 63135,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex 4E",
+        "x": 51.0,
+        "y": 24.0,
+        "z": -83.0,
+        "yaw": 152.0,
+        "pitch": 157.0,
+        "roll": 0.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hexagon"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 63175,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 5A",
+        "x": -59.0,
+        "y": 72.0,
+        "z": -36.0,
+        "yaw": -124.0,
+        "pitch": 141.0,
+        "roll": 66.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 63213,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 5C",
+        "x": -94.0,
+        "y": 24.0,
+        "z": -23.0,
+        "yaw": -111.0,
+        "pitch": 163.0,
+        "roll": 64.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    },
+    {
+      "jsonFixtureType": "Vofa/Hex+Sleds",
+      "jsonParameters": {},
+      "id": 63251,
+      "class": "heronarts.lx.structure.JsonFixture",
+      "internal": {
+        "modulationColor": 0,
+        "modulationControlsExpanded": true,
+        "modulationsExpanded": true
+      },
+      "parameters": {
+        "label": "Hex+Sleds 5E",
+        "x": -63.0,
+        "y": 24.0,
+        "z": -74.0,
+        "yaw": -136.0,
+        "pitch": 157.0,
+        "roll": 60.0,
+        "scale": 1.0,
+        "hasCustomPointSize": true,
+        "pointSize": 1.0,
+        "selected": false,
+        "deactivate": false,
+        "enabled": false,
+        "brightness": 1.0,
+        "identify": false,
+        "mute": false,
+        "solo": false,
+        "tags": "",
+        "fixtureType": "Vofa/Hex+Sleds"
+      },
+      "children": {}
+    }
+  ],
+  "normalization": {
+    "normalizationMode": 0,
+    "normalizationMode/name": "AUTOMATIC",
+    "normalizationX": 250.0,
+    "normalizationY": 500.0,
+    "normalizationZ": 500.0,
+    "normalizationWidth": 1000.0,
+    "normalizationHeight": 1000.0,
+    "normalizationDepth": 1000.0
+  },
+  "labelConfig": {
+    "showFixtureLabels": true,
+    "fixtureLabelHorizontalAlignment": 1,
+    "fixtureLabelHorizontalAlignment/name": "CENTER",
+    "fixtureLabelVerticalAlignment": 1,
+    "fixtureLabelVerticalAlignment/name": "MIDDLE",
+    "fixtureLabelPositionX": 0,
+    "fixtureLabelPositionX/name": "POSITION",
+    "fixtureLabelPositionY": 0,
+    "fixtureLabelPositionY/name": "POSITION",
+    "fixtureLabelPositionZ": 0,
+    "fixtureLabelPositionZ/name": "POSITION",
+    "fixtureLabelOffsetX": 0.0,
+    "fixtureLabelOffsetY": 0.0,
+    "fixtureLabelOffsetZ": 0.0
+  }
+}
