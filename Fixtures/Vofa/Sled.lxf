@@ -1,0 +1,13 @@
+{
+  "label": "Sled",
+  "tag": "sled",
+  "transforms": [
+    { "x": "-1.5 * 20 / 19", "y": -10 }
+  ],
+  "components": [
+    { "type": "strip", "x": "3 * 20 / 19", "y": 0,  "z": 0, "numPoints": 20, "spacing": "20 / 19", "direction": { "x": 0, "y":  1, "z": 0 } },
+    { "type": "strip", "x": "2 * 20 / 19", "y": 20, "z": 0, "numPoints": 20, "spacing": "20 / 19", "direction": { "x": 0, "y": -1, "z": 0 } },
+    { "type": "strip", "x": "20 / 19",     "y": 0,  "z": 0, "numPoints": 20, "spacing": "20 / 19", "direction": { "x": 0, "y":  1, "z": 0 } },
+    { "type": "strip", "x": 0,             "y": 20, "z": 0, "numPoints": 20, "spacing": "20 / 19", "direction": { "x": 0, "y": -1, "z": 0 } }
+  ]
+}

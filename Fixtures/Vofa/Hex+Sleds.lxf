@@ -1,0 +1,28 @@
+{
+  "label": "Hex+Sleds",
+  "tag": "hexsleds",
+  "components": [
+    {
+      "type": "Hexagon",
+      "size": 20
+    },
+    {
+      "type": "Sled",
+      "x": 18.758,
+      "y": 11.5,
+      "roll": -60
+    },
+    {
+      "type": "Sled",
+      "x": -18.758,
+      "y": 11.5,
+      "roll": 60
+    },
+    {
+      "type": "Sled",
+      "x": 0,
+      "y": -23,
+      "roll": -180
+    }
+  ]
+}
