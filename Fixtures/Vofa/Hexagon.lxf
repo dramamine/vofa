@@ -2,9 +2,15 @@
   "label": "Hexagon",
   "tag": "hexagon",
   "parameters": {
-    "size":   { "type": "float",   "label": "Size",   "description": "Total width and height of the hexagon", "default": 50,    "min": 0 },
-    "center": { "type": "boolean", "label": "Center", "description": "Whether to center the hexagon",         "default": true }
+    "size":     { "type": "float",   "label": "Size",     "description": "Total width and height of the hexagon", "default": 50,            "min": 0 },
+    "center":   { "type": "boolean", "label": "Center",   "description": "Whether to center the hexagon",         "default": true },
+    "host":     { "type": "string",  "label": "IP",       "description": "Art-Net controller IP address",          "default": "192.168.1.1" },
+    "universe": { "type": "int",     "label": "Universe", "description": "Starting Art-Net universe (uses 2)",     "default": 0,             "min": 0 }
   },
+  "outputs": [
+    { "protocol": "artnet", "host": "$host", "universe": "$universe",     "channel": 0, "sequenceEnabled": false, "start": 0,   "num": 170 },
+    { "protocol": "artnet", "host": "$host", "universe": "$universe + 1", "channel": 0, "sequenceEnabled": false, "start": 170, "num": 161 }
+  ],
   "transforms": [
     { "enabled": "$center", "y": "-0.5 * $size" }
   ],
