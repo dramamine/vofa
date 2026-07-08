@@ -1,0 +1,75 @@
+{
+  "label": "Main",
+  "components": [
+    {
+      "label": "Hex TOP A",
+      "type": "Vofa/Hexagon",
+      "x": 28.0,
+      "y": 98.0,
+      "z": -4.0,
+      "yaw": -15.9,
+      "pitch": 87.7,
+      "roll": 0.0,
+      "pointSize": 1.0,
+      "scale": 1.0,
+      "size": "20.0",
+      "center": "true"
+    },
+    {
+      "label": "Hex TOP B",
+      "type": "Vofa/Hexagon",
+      "x": 13.0,
+      "y": 97.0,
+      "z": 20.0,
+      "yaw": -7.5,
+      "pitch": 101.7,
+      "roll": 0.0,
+      "pointSize": 1.0,
+      "scale": 1.0,
+      "size": "20.0",
+      "center": "true"
+    },
+    {
+      "label": "Hex TOP C",
+      "type": "Vofa/Hexagon",
+      "x": -17.0,
+      "y": 97.0,
+      "z": 19.0,
+      "yaw": 9.8,
+      "pitch": 101.1,
+      "roll": 0.0,
+      "pointSize": 1.0,
+      "scale": 1.0,
+      "size": "20.0",
+      "center": "true"
+    },
+    {
+      "label": "Hex TOP D",
+      "type": "Vofa/Hexagon",
+      "x": -24.0,
+      "y": 97.0,
+      "z": -10.0,
+      "yaw": 13.8,
+      "pitch": 84.1,
+      "roll": 0.0,
+      "pointSize": 1.0,
+      "scale": 1.0,
+      "size": "20.0",
+      "center": "true"
+    },
+    {
+      "label": "Hex TOP E",
+      "type": "Vofa/Hexagon",
+      "x": 5.0,
+      "y": 97.0,
+      "z": -25.0,
+      "yaw": -2.9,
+      "pitch": 75.5,
+      "roll": 0.0,
+      "pointSize": 1.0,
+      "scale": 1.0,
+      "size": "20.0",
+      "center": "true"
+    }
+  ]
+}
