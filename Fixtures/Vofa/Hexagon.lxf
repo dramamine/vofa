@@ -1,0 +1,34 @@
+{
+  "label": "Hexagon",
+  "tag": "hexagon",
+  "parameters": {
+    "size":   { "type": "float",   "label": "Size",   "description": "Total width and height of the hexagon", "default": 50,    "min": 0 },
+    "center": { "type": "boolean", "label": "Center", "description": "Whether to center the hexagon",         "default": true }
+  },
+  "transforms": [
+    { "enabled": "$center", "y": "-0.5 * $size" }
+  ],
+  "components": [
+    { "type": "strip", "x": "-10 * $size / 40", "y": 0,                  "z": 0, "numPoints": 11, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "11 * $size / 40",  "y": "$size / 20",       "z": 0, "numPoints": 12, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-12 * $size / 40", "y": "2 * $size / 20",   "z": 0, "numPoints": 13, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "13 * $size / 40",  "y": "3 * $size / 20",   "z": 0, "numPoints": 14, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-14 * $size / 40", "y": "4 * $size / 20",   "z": 0, "numPoints": 15, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "15 * $size / 40",  "y": "5 * $size / 20",   "z": 0, "numPoints": 16, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-16 * $size / 40", "y": "6 * $size / 20",   "z": 0, "numPoints": 17, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "17 * $size / 40",  "y": "7 * $size / 20",   "z": 0, "numPoints": 18, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-18 * $size / 40", "y": "8 * $size / 20",   "z": 0, "numPoints": 19, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "19 * $size / 40",  "y": "9 * $size / 20",   "z": 0, "numPoints": 20, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-20 * $size / 40", "y": "10 * $size / 20",  "z": 0, "numPoints": 21, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "19 * $size / 40",  "y": "11 * $size / 20",  "z": 0, "numPoints": 20, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-18 * $size / 40", "y": "12 * $size / 20",  "z": 0, "numPoints": 19, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "17 * $size / 40",  "y": "13 * $size / 20",  "z": 0, "numPoints": 18, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-16 * $size / 40", "y": "14 * $size / 20",  "z": 0, "numPoints": 17, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "15 * $size / 40",  "y": "15 * $size / 20",  "z": 0, "numPoints": 16, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-14 * $size / 40", "y": "16 * $size / 20",  "z": 0, "numPoints": 15, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "13 * $size / 40",  "y": "17 * $size / 20",  "z": 0, "numPoints": 14, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-12 * $size / 40", "y": "18 * $size / 20",  "z": 0, "numPoints": 13, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "11 * $size / 40",  "y": "19 * $size / 20",  "z": 0, "numPoints": 12, "spacing": "$size / 20", "direction": { "x": -1, "y": 0, "z": 0 } },
+    { "type": "strip", "x": "-10 * $size / 40", "y": "$size",             "z": 0, "numPoints": 11, "spacing": "$size / 20", "direction": { "x":  1, "y": 0, "z": 0 } }
+  ]
+}

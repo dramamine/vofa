@@ -1,0 +1,19 @@
+{
+  "label": "Dome",
+  "tag": "dome",
+  "parameters": {
+    "size": { "type": "float", "label": "Size", "description": "Radius of the dome", "default": 100, "min": 0 }
+  },
+  "components": [
+    { "type": "arc", "mode": "center", "x": 0, "y": 0,                 "z": 0, "radius": "$size",           "numPoints": 36, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(10)", "z": 0, "radius": "$size * cos(10)", "numPoints": 35, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(20)", "z": 0, "radius": "$size * cos(20)", "numPoints": 34, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(30)", "z": 0, "radius": "$size * cos(30)", "numPoints": 31, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(40)", "z": 0, "radius": "$size * cos(40)", "numPoints": 28, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(50)", "z": 0, "radius": "$size * cos(50)", "numPoints": 23, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(60)", "z": 0, "radius": "$size * cos(60)", "numPoints": 18, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(70)", "z": 0, "radius": "$size * cos(70)", "numPoints": 12, "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "arc", "mode": "center", "x": 0, "y": "$size * sin(80)", "z": 0, "radius": "$size * cos(80)", "numPoints": 6,  "degrees": 360, "normal": { "x": 0, "y": 1, "z": 0 } },
+    { "type": "point", "x": 0, "y": "$size", "z": 0 }
+  ]
+}
