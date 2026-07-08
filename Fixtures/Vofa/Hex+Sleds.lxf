@@ -1,6 +1,16 @@
 {
   "label": "Hex+Sleds",
   "tag": "hexsleds",
+  "parameters": {
+    "host":     { "type": "string", "label": "IP",       "description": "Art-Net controller IP address",      "default": "192.168.1.1" },
+    "universe": { "type": "int",    "label": "Universe", "description": "Starting Art-Net universe (uses 4)", "default": 0,             "min": 0 }
+  },
+  "outputs": [
+    { "protocol": "artnet", "host": "$host", "universe": "$universe",     "channel": 0, "sequenceEnabled": false, "start": 0,   "num": 170 },
+    { "protocol": "artnet", "host": "$host", "universe": "$universe + 1", "channel": 0, "sequenceEnabled": false, "start": 170, "num": 170 },
+    { "protocol": "artnet", "host": "$host", "universe": "$universe + 2", "channel": 0, "sequenceEnabled": false, "start": 340, "num": 170 },
+    { "protocol": "artnet", "host": "$host", "universe": "$universe + 3", "channel": 0, "sequenceEnabled": false, "start": 510, "num": 61  }
+  ],
   "components": [
     {
       "type": "Hexagon",
