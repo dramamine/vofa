@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "timestamp": 1783568636154,
+  "timestamp": 1783636248865,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -83,7 +83,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.1",
+          "host": "192.168.8.201",
           "universe": 0
         },
         "id": 51435,
@@ -103,10 +103,10 @@
           "roll": -100.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
-          "selected": true,
+          "pointSize": 1.0,
+          "selected": false,
           "deactivate": false,
-          "enabled": false,
+          "enabled": true,
           "brightness": 1.0,
           "identify": false,
           "mute": false,
@@ -121,7 +121,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.1",
+          "host": "192.168.8.201",
           "universe": 2
         },
         "id": 56377,
@@ -141,10 +141,10 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
-          "enabled": false,
+          "enabled": true,
           "brightness": 1.0,
           "identify": false,
           "mute": false,
@@ -159,7 +159,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.1",
+          "host": "192.168.8.201",
           "universe": 4
         },
         "id": 56438,
@@ -179,10 +179,10 @@
           "roll": 32.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
-          "selected": false,
+          "pointSize": 1.0,
+          "selected": true,
           "deactivate": false,
-          "enabled": false,
+          "enabled": true,
           "brightness": 1.0,
           "identify": false,
           "mute": false,
@@ -197,7 +197,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.1",
+          "host": "192.168.8.201",
           "universe": 6
         },
         "id": 56478,
@@ -217,7 +217,7 @@
           "roll": -174.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -235,7 +235,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.1",
+          "host": "192.168.8.201",
           "universe": 8
         },
         "id": 56500,
@@ -255,7 +255,7 @@
           "roll": -167.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -271,7 +271,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.2",
+          "host": "192.168.8.202",
           "universe": 0
         },
         "id": 60487,
@@ -307,7 +307,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.2",
+          "host": "192.168.8.202",
           "universe": 2
         },
         "id": 61949,
@@ -343,7 +343,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.2",
+          "host": "192.168.8.202",
           "universe": 4
         },
         "id": 62079,
@@ -381,7 +381,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.3",
+          "host": "192.168.8.203",
           "universe": 0
         },
         "id": 62227,
@@ -401,7 +401,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -419,7 +419,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.3",
+          "host": "192.168.8.203",
           "universe": 2
         },
         "id": 62270,
@@ -439,7 +439,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -457,7 +457,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.3",
+          "host": "192.168.8.203",
           "universe": 4
         },
         "id": 62331,
@@ -477,7 +477,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -493,7 +493,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.4",
+          "host": "192.168.8.204",
           "universe": 0
         },
         "id": 62977,
@@ -513,7 +513,7 @@
           "roll": 66.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -529,7 +529,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.4",
+          "host": "192.168.8.204",
           "universe": 2
         },
         "id": 63015,
@@ -549,7 +549,7 @@
           "roll": 64.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -565,7 +565,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.4",
+          "host": "192.168.8.204",
           "universe": 4
         },
         "id": 63053,
@@ -585,7 +585,7 @@
           "roll": 60.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -603,7 +603,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.5",
+          "host": "192.168.8.205",
           "universe": 0
         },
         "id": 63091,
@@ -623,7 +623,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -641,7 +641,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.5",
+          "host": "192.168.8.205",
           "universe": 2
         },
         "id": 63113,
@@ -661,7 +661,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -679,7 +679,7 @@
         "jsonParameters": {
           "size": 20.0,
           "center": true,
-          "host": "169.254.18.5",
+          "host": "192.168.8.205",
           "universe": 4
         },
         "id": 63135,
@@ -699,7 +699,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -715,7 +715,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.6",
+          "host": "192.168.8.206",
           "universe": 0
         },
         "id": 63175,
@@ -735,7 +735,7 @@
           "roll": 66.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -751,7 +751,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.6",
+          "host": "192.168.8.206",
           "universe": 2
         },
         "id": 63213,
@@ -771,7 +771,7 @@
           "roll": 64.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -787,7 +787,7 @@
       {
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
-          "host": "169.254.18.6",
+          "host": "192.168.8.206",
           "universe": 4
         },
         "id": 63251,
@@ -807,7 +807,7 @@
           "roll": 60.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -820,7 +820,8 @@
         },
         "children": {}
       }
-    ]
+    ],
+    "file": "Vofa.lxm"
   },
   "engine": {
     "id": 1,
@@ -863,7 +864,7 @@
           "autoCycleMode": 0,
           "autoCycleMode/name": "NEXT",
           "autoCycleTimeSecs": 75.0,
-          "autoCycleCursor": 3,
+          "autoCycleCursor": 1,
           "triggerSwatchCycle": false,
           "expandedPerformance": true,
           "label1": "1",
@@ -882,7 +883,7 @@
               "modulationsExpanded": true
             },
             "parameters": {
-              "label": "Greens",
+              "label": "Blues",
               "recall": false,
               "autoCycleEligible": true
             },
@@ -901,9 +902,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 62.352943420410156,
-                  "primary/saturation": 98.74214172363281,
-                  "primary/hue": 109.68152618408203,
+                  "primary/brightness": 100.0,
+                  "primary/saturation": 100.0,
+                  "primary/hue": 187.27734375,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 74.85026550292969,
                   "secondary/hue": 359.0
@@ -923,9 +924,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 46.66666793823242,
-                  "primary/saturation": 95.7983169555664,
-                  "primary/hue": 193.1579132080078,
+                  "primary/brightness": 100.0,
+                  "primary/saturation": 96.11002349853516,
+                  "primary/hue": 231.55079650878906,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 100.0,
                   "secondary/hue": 120.0
@@ -945,9 +946,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 72.1568603515625,
-                  "primary/saturation": 98.91304016113281,
-                  "primary/hue": 70.8791275024414,
+                  "primary/brightness": 100.0,
+                  "primary/saturation": 44.072265625,
+                  "primary/hue": 180.30467224121094,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 100.0,
                   "secondary/hue": 120.0
@@ -2131,7 +2132,7 @@
             },
             "parameters": {
               "label": "Master",
-              "fader": 1.0,
+              "fader": 0.5285714231431484,
               "arm": false,
               "selected": false,
               "stopClips": false,
@@ -3383,7 +3384,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.8029035972832614
+                        "basis": 0.1653634872025872
                       }
                     ],
                     "modulations": [
@@ -3518,7 +3519,7 @@
             },
             "effects": [],
             "clips": [],
-            "patternIndex": 1,
+            "patternIndex": 0,
             "patterns": [
               {
                 "id": 48108,
@@ -3962,7 +3963,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.9938606785214912
+                        "basis": 0.9572615016619073
                       }
                     ],
                     "modulations": [
@@ -5196,7 +5197,7 @@
             },
             "parameters": {
               "label": "test: Iterate",
-              "fader": 0.0,
+              "fader": 1.0,
               "arm": false,
               "selected": false,
               "stopClips": false,
@@ -5368,7 +5369,7 @@
               "triggerOut": false
             },
             "children": {},
-            "basis": 0.8934944516333355
+            "basis": 0.27154532106667145
           },
           {
             "id": 48141,
@@ -5454,7 +5455,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.22551751999998798
+            "basis": 0.4938227365999867
           },
           {
             "id": 67528,
@@ -5496,7 +5497,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.34628982131949554
+            "basis": 0.8143402686458886
           },
           {
             "id": 67603,
@@ -5538,7 +5539,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.15859619999999788
+            "basis": 0.4269014165999972
           },
           {
             "id": 67691,
@@ -5580,7 +5581,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.5228870399999899
+            "basis": 0.7911922565999872
           }
         ],
         "modulations": [
@@ -5758,7 +5759,7 @@
         },
         "parameters": {
           "label": "Output",
-          "enabled": false,
+          "enabled": true,
           "brightness": 1.0,
           "fps": 0.0,
           "gamma": 1.0,
@@ -7992,7 +7993,7 @@
   },
   "externals": {
     "ui": {
-      "leftPaneActiveSection": 2,
+      "leftPaneActiveSection": 1,
       "audioExpanded": false,
       "envelopExpanded": true,
       "reaperExpanded": true,
@@ -8017,7 +8018,7 @@
         "animation": false,
         "camera": {
           "active": false,
-          "radius": 260.1384328400594,
+          "radius": 271.03312498747147,
           "theta": 41.649019463104196,
           "phi": 28.19130539894104,
           "x": 11.893988835508935,
