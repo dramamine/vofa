@@ -8,6 +8,12 @@ Hexagon+Sleds: 571 LEDs (4 universes)
 
 9 hex+sleds = 5139
 
+DDP method:
+
+TOP: data offsets 0, 993, 1986, 2979, 3972
+Hex+sleds: data offsets 0, 1713, 3426
+
+
 ## Installation
 
 Find your Chromatik directory (user home/Chromatik) and drop the repo files there preserving the existing folders.

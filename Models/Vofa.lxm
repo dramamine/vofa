@@ -8,7 +8,7 @@
         "size": 20.0,
         "center": true,
         "host": "169.254.18.1",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 51435,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -46,7 +46,7 @@
         "size": 20.0,
         "center": true,
         "host": "169.254.18.1",
-        "universe": 2
+        "dataOffset": 993
       },
       "id": 56377,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -84,7 +84,7 @@
         "size": 20.0,
         "center": true,
         "host": "169.254.18.1",
-        "universe": 4
+        "dataOffset": 1986
       },
       "id": 56438,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -122,7 +122,7 @@
         "size": 20.0,
         "center": true,
         "host": "169.254.18.1",
-        "universe": 6
+        "dataOffset": 2979
       },
       "id": 56478,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -160,7 +160,7 @@
         "size": 20.0,
         "center": true,
         "host": "169.254.18.1",
-        "universe": 8
+        "dataOffset": 3972
       },
       "id": 56500,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -196,7 +196,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.2",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 60487,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -232,7 +232,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.2",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 61949,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -268,7 +268,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.2",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 62079,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -305,8 +305,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.3",
-        "universe": 0
+        "host": "169.254.18.3"
       },
       "id": 62227,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -343,8 +342,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.3",
-        "universe": 2
+        "host": "169.254.18.3"
       },
       "id": 62270,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -381,8 +379,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.3",
-        "universe": 4
+        "host": "169.254.18.3"
       },
       "id": 62331,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -418,7 +415,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.4",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 62977,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -454,7 +451,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.4",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 63015,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -490,7 +487,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.4",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 63053,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -527,8 +524,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.5",
-        "universe": 0
+        "host": "169.254.18.5"
       },
       "id": 63091,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -565,8 +561,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.5",
-        "universe": 2
+        "host": "169.254.18.5"
       },
       "id": 63113,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -603,8 +598,7 @@
       "jsonParameters": {
         "size": 20.0,
         "center": true,
-        "host": "169.254.18.5",
-        "universe": 4
+        "host": "169.254.18.5"
       },
       "id": 63135,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -640,7 +634,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.6",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 63175,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -676,7 +670,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.6",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 63213,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -712,7 +706,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "169.254.18.6",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 63251,
       "class": "heronarts.lx.structure.JsonFixture",

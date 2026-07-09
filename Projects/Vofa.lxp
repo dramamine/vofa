@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "timestamp": 1783568636154,
+  "timestamp": 1783618800683,
   "model": {
     "id": 2,
     "class": "heronarts.lx.structure.LXStructure",
@@ -84,7 +84,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.1",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 51435,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -103,8 +103,8 @@
           "roll": -100.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
-          "selected": true,
+          "pointSize": 1.0,
+          "selected": false,
           "deactivate": false,
           "enabled": false,
           "brightness": 1.0,
@@ -122,7 +122,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.1",
-          "universe": 2
+          "dataOffset": 993
         },
         "id": 56377,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -141,7 +141,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -160,7 +160,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.1",
-          "universe": 4
+          "dataOffset": 1986
         },
         "id": 56438,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -179,7 +179,7 @@
           "roll": 32.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -198,7 +198,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.1",
-          "universe": 6
+          "dataOffset": 2979
         },
         "id": 56478,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -217,7 +217,7 @@
           "roll": -174.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -236,7 +236,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.1",
-          "universe": 8
+          "dataOffset": 3972
         },
         "id": 56500,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -255,7 +255,7 @@
           "roll": -167.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -272,7 +272,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.2",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 60487,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -308,7 +308,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.2",
-          "universe": 2
+          "dataOffset": 1713
         },
         "id": 61949,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -344,7 +344,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.2",
-          "universe": 4
+          "dataOffset": 3426
         },
         "id": 62079,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -382,7 +382,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.3",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 62227,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -401,7 +401,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -420,7 +420,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.3",
-          "universe": 2
+          "dataOffset": 0
         },
         "id": 62270,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -439,7 +439,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -458,7 +458,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.3",
-          "universe": 4
+          "dataOffset": 0
         },
         "id": 62331,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -477,7 +477,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -494,7 +494,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.4",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 62977,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -513,7 +513,7 @@
           "roll": 66.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -530,7 +530,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.4",
-          "universe": 2
+          "dataOffset": 1713
         },
         "id": 63015,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -549,7 +549,7 @@
           "roll": 64.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -566,7 +566,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.4",
-          "universe": 4
+          "dataOffset": 3426
         },
         "id": 63053,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -585,7 +585,7 @@
           "roll": 60.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -604,7 +604,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.5",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 63091,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -623,7 +623,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -642,7 +642,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.5",
-          "universe": 2
+          "dataOffset": 0
         },
         "id": 63113,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -661,7 +661,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -680,7 +680,7 @@
           "size": 20.0,
           "center": true,
           "host": "169.254.18.5",
-          "universe": 4
+          "dataOffset": 0
         },
         "id": 63135,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -699,7 +699,7 @@
           "roll": 0.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -716,7 +716,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.6",
-          "universe": 0
+          "dataOffset": 0
         },
         "id": 63175,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -735,7 +735,7 @@
           "roll": 66.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -752,7 +752,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.6",
-          "universe": 2
+          "dataOffset": 1713
         },
         "id": 63213,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -771,7 +771,7 @@
           "roll": 64.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
+          "pointSize": 1.0,
           "selected": false,
           "deactivate": false,
           "enabled": false,
@@ -788,7 +788,7 @@
         "jsonFixtureType": "Vofa/Hex+Sleds",
         "jsonParameters": {
           "host": "169.254.18.6",
-          "universe": 4
+          "dataOffset": 3426
         },
         "id": 63251,
         "class": "heronarts.lx.structure.JsonFixture",
@@ -807,8 +807,8 @@
           "roll": 60.0,
           "scale": 1.0,
           "hasCustomPointSize": true,
-          "pointSize": 2.0,
-          "selected": false,
+          "pointSize": 1.0,
+          "selected": true,
           "deactivate": false,
           "enabled": false,
           "brightness": 1.0,
@@ -820,7 +820,8 @@
         },
         "children": {}
       }
-    ]
+    ],
+    "file": "Vofa.lxm"
   },
   "engine": {
     "id": 1,
@@ -863,7 +864,7 @@
           "autoCycleMode": 0,
           "autoCycleMode/name": "NEXT",
           "autoCycleTimeSecs": 75.0,
-          "autoCycleCursor": 3,
+          "autoCycleCursor": 0,
           "triggerSwatchCycle": false,
           "expandedPerformance": true,
           "label1": "1",
@@ -882,7 +883,7 @@
               "modulationsExpanded": true
             },
             "parameters": {
-              "label": "Greens",
+              "label": "Reds",
               "recall": false,
               "autoCycleEligible": true
             },
@@ -901,9 +902,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 62.352943420410156,
-                  "primary/saturation": 98.74214172363281,
-                  "primary/hue": 109.68152618408203,
+                  "primary/brightness": 100.0,
+                  "primary/saturation": 100.0,
+                  "primary/hue": 0.0,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 74.85026550292969,
                   "secondary/hue": 359.0
@@ -923,9 +924,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 46.66666793823242,
-                  "primary/saturation": 95.7983169555664,
-                  "primary/hue": 193.1579132080078,
+                  "primary/brightness": 47.45098114013672,
+                  "primary/saturation": 94.21487426757812,
+                  "primary/hue": 199.47369384765625,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 100.0,
                   "secondary/hue": 120.0
@@ -945,9 +946,9 @@
                   "mode": 0,
                   "mode/name": "FIXED",
                   "period": 30.0,
-                  "primary/brightness": 72.1568603515625,
-                  "primary/saturation": 98.91304016113281,
-                  "primary/hue": 70.8791275024414,
+                  "primary/brightness": 71.37255096435547,
+                  "primary/saturation": 98.9011001586914,
+                  "primary/hue": 73.33333587646484,
                   "secondary/brightness": 100.0,
                   "secondary/saturation": 100.0,
                   "secondary/hue": 120.0
@@ -3383,7 +3384,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.8029035972832614
+                        "basis": 0.9966601360352578
                       }
                     ],
                     "modulations": [
@@ -3518,7 +3519,7 @@
             },
             "effects": [],
             "clips": [],
-            "patternIndex": 1,
+            "patternIndex": 0,
             "patterns": [
               {
                 "id": 48108,
@@ -3962,7 +3963,7 @@
                           "exp": 0.0
                         },
                         "children": {},
-                        "basis": 0.9938606785214912
+                        "basis": 0.7342795496998143
                       }
                     ],
                     "modulations": [
@@ -5368,7 +5369,7 @@
               "triggerOut": false
             },
             "children": {},
-            "basis": 0.8934944516333355
+            "basis": 0.8453084971666642
           },
           {
             "id": 48141,
@@ -5454,7 +5455,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.22551751999998798
+            "basis": 0.9364017931999984
           },
           {
             "id": 67528,
@@ -5496,7 +5497,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.34628982131949554
+            "basis": 0.6918723712126887
           },
           {
             "id": 67603,
@@ -5538,7 +5539,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.15859619999999788
+            "basis": 0.8694804732000042
           },
           {
             "id": 67691,
@@ -5580,7 +5581,7 @@
               "exp": 0.0
             },
             "children": {},
-            "basis": 0.5228870399999899
+            "basis": 0.23377131319998937
           }
         ],
         "modulations": [
@@ -7992,7 +7993,7 @@
   },
   "externals": {
     "ui": {
-      "leftPaneActiveSection": 2,
+      "leftPaneActiveSection": 1,
       "audioExpanded": false,
       "envelopExpanded": true,
       "reaperExpanded": true,
@@ -8018,8 +8019,8 @@
         "camera": {
           "active": false,
           "radius": 260.1384328400594,
-          "theta": 41.649019463104196,
-          "phi": 28.19130539894104,
+          "theta": 303.7446694058599,
+          "phi": 29.36522015929222,
           "x": 11.893988835508935,
           "y": 17.946384916547686,
           "z": -1.651647242717445
