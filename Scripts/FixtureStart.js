@@ -33,6 +33,6 @@ function preRender(deltaMs, nowMillis, model) {
   }
 }
 
-function renderPoint(point, deltaMs) {
-  return _cache[point.index] ? rgb(255, 255, 255) : rgb(0, 0, 0);
+function renderPoint(point, deltaMs, enabledAmount, inputColor) {
+  return _cache[point.index] ? rgb(255, 255, 255) : inputColor;
 }
