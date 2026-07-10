@@ -8,6 +8,13 @@ Hexagon+Sleds: 571 LEDs (4 universes)
 
 9 hex+sleds = 5139
 
+Offset list:
+
+0, 331, 662, 993, 1324, 1655
+
+0, 571, 1142
+
+
 ## Installation
 
 Find your Chromatik directory (user home/Chromatik) and drop the repo files there preserving the existing folders.
@@ -18,11 +25,10 @@ Open `Projects/Vofa.lxp`
 
 ![alt text](image.png)
 
-These are configured for Artnet - be sure to update IP and Universe.
+These are configured for DDP which gets picked up by WLED. Set IPs and data offsets if fixtures aren't quite right.
 
 Rotation's probably wrong on these so update the Roll parameter to rotate. Note that I was having some program crashes when updating these values with click-and-drag; recommend just typing in a number and seeing if that fixes things.
 
-@TODO consider using a more efficient protocol like DDP
 
 ### Test Patterns
 
@@ -57,44 +63,3 @@ On site, switch from Design mode to Performance mode.
 Consider lowering the FPS if you're dropping frames. I would bet 30-40 is the most you can get reliably.
 
 
-
-## Router
-
-Admin panel: http://192.168.8.1/#/welcome
-Admin pw: VaultAscension
-Router IP: 192.168.8.1
-Address Reservation: http://192.168.8.1/#/lanip
-
-ssid: vault-2.4g and vault-5g
-pw: fuckyerburn
-
-
-Vault-AP-TOP
-vault-ascension-top.local
-192.168.8.201
-F4:65:0B:C3:ED:28
-
-Vault-AP-1
-vault-ascension-1.local
-192.168.8.202
-F4:65:0B:C4:BE:E0
-
-Vault-AP-2
-vault-ascension-2.local
-192.168.8.203
-F4:65:0B:C4:B0:10
-    
-Vault-AP-3
-vault-ascension-3.local
-192.168.8.204
-F4:65:0B:C4:BC:50
-
-Vault-AP-4
-vault-ascension-4.local
-192.168.8.205
-F4:65:0B:52:0A:88
-
-Vault-AP-5
-vault-ascension-5.local
-192.168.8.206
-F4:65:0B:C4:BD:80
