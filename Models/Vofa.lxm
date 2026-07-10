@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "timestamp": 1783552084195,
+  "timestamp": 1783642319645,
   "fixtures": [
     {
       "jsonFixtureType": "Vofa/Hexagon",
@@ -8,7 +8,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.201",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 51435,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -30,7 +30,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -46,7 +46,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.201",
-        "universe": 2
+        "dataOffset": 993
       },
       "id": 56377,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -68,7 +68,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -84,7 +84,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.201",
-        "universe": 4
+        "dataOffset": 1986
       },
       "id": 56438,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -106,7 +106,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -122,7 +122,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.201",
-        "universe": 6
+        "dataOffset": 2979
       },
       "id": 56478,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -144,7 +144,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -160,7 +160,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.201",
-        "universe": 8
+        "dataOffset": 3972
       },
       "id": 56500,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -182,7 +182,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -196,7 +196,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.202",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 60487,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -218,7 +218,7 @@
         "pointSize": 2.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -232,7 +232,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.202",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 61949,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -254,7 +254,7 @@
         "pointSize": 2.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -268,7 +268,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.202",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 62079,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -290,7 +290,7 @@
         "pointSize": 2.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -306,7 +306,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.203",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 62227,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -328,7 +328,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -344,7 +344,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.203",
-        "universe": 2
+        "dataOffset": 993
       },
       "id": 62270,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -366,7 +366,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -382,7 +382,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.203",
-        "universe": 4
+        "dataOffset": 1986
       },
       "id": 62331,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -404,7 +404,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -418,7 +418,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.204",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 62977,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -440,7 +440,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -454,7 +454,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.204",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 63015,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -476,7 +476,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -490,7 +490,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.204",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 63053,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -512,7 +512,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -528,7 +528,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.205",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 63091,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -550,7 +550,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -566,7 +566,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.205",
-        "universe": 2
+        "dataOffset": 993
       },
       "id": 63113,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -588,7 +588,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -604,7 +604,7 @@
         "size": 20.0,
         "center": true,
         "host": "192.168.8.205",
-        "universe": 4
+        "dataOffset": 986
       },
       "id": 63135,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -626,7 +626,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -640,7 +640,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.206",
-        "universe": 0
+        "dataOffset": 0
       },
       "id": 63175,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -662,7 +662,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -676,7 +676,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.206",
-        "universe": 2
+        "dataOffset": 1713
       },
       "id": 63213,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -698,7 +698,7 @@
         "pointSize": 1.0,
         "selected": false,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
@@ -712,7 +712,7 @@
       "jsonFixtureType": "Vofa/Hex+Sleds",
       "jsonParameters": {
         "host": "192.168.8.206",
-        "universe": 4
+        "dataOffset": 3426
       },
       "id": 63251,
       "class": "heronarts.lx.structure.JsonFixture",
@@ -734,7 +734,7 @@
         "pointSize": 1.0,
         "selected": true,
         "deactivate": false,
-        "enabled": false,
+        "enabled": true,
         "brightness": 1.0,
         "identify": false,
         "mute": false,
