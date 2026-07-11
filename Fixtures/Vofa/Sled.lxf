@@ -1,6 +1,13 @@
 {
   "label": "Sled",
   "tag": "sled",
+  "parameters": {
+    "host":       { "type": "string", "label": "IP",          "description": "DDP controller IP address",   "default": "192.168.1.1" },
+    "dataOffset": { "type": "int",    "label": "Data Offset", "description": "DDP data offset (byte index)", "default": 0,             "min": 0 }
+  },
+  "outputs": [
+    { "protocol": "ddp", "host": "$host", "dataOffset": "$dataOffset" }
+  ],
   "transforms": [
     { "x": "-1.5 * 20 / 19", "y": -10 }
   ],

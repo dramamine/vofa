@@ -2,34 +2,39 @@
   "label": "Hex+Sleds",
   "tag": "hexsleds",
   "parameters": {
-    "host":       { "type": "string", "label": "IP",          "description": "DDP controller IP address",   "default": "192.168.1.1" },
-    "dataOffset": { "type": "int",    "label": "Data Offset", "description": "DDP data offset (byte index)", "default": 0,             "min": 0 }
+    "host":           { "type": "string", "label": "IP",                 "description": "DDP controller IP address",              "default": "192.168.1.1" },
+    "dataOffset":  { "type": "int",    "label": "Hex Data Offset",    "description": "DDP data offset for hexagon (byte index)", "default": 0, "min": 0 }
   },
-  "outputs": [
-    { "protocol": "ddp", "host": "$host", "dataOffset": "$dataOffset" }
-  ],
   "components": [
     {
       "type": "Hexagon",
-      "size": 20
+      "size": 20,
+      "host": "$host",
+      "dataOffset": "$dataOffset"
     },
     {
       "type": "Sled",
       "x": 18.758,
       "y": 11.5,
-      "roll": -60
+      "roll": -60,
+      "host": "$host",
+      "dataOffset": "$dataOffset + 993"
     },
     {
       "type": "Sled",
       "x": -18.758,
       "y": 11.5,
-      "roll": 60
+      "roll": 60,
+      "host": "$host",
+      "dataOffset": "$dataOffset + 1233"
     },
     {
       "type": "Sled",
       "x": 0,
       "y": -23,
-      "roll": -180
+      "roll": -180,
+      "host": "$host",
+      "dataOffset": "$dataOffset + 1473"
     }
   ]
 }
